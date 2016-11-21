@@ -26,10 +26,10 @@ header {
   background-color: #18294f;
   text-align: center;
   padding-bottom: 5px;
+  color: #fff;
 }
 
 header h1 {
-  color: #fff;
   margin: 0;
   padding: .3em 0 .5em;
 }
@@ -50,6 +50,7 @@ nav a {
   text-decoration: none;
   display: block;
   padding: .5em .75em;
+  white-space: nowrap;
 }
 
 nav a:hover {
